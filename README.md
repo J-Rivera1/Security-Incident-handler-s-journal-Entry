@@ -1,4 +1,4 @@
-# Security-Incident-handler-s-journal-Entry
+# Security-Incident-handlers-journal-Entry
 
 Scenario
 
